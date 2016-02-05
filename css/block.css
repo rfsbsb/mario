@@ -7,7 +7,7 @@ body {
 	background-color: #FCD800;
 	text-align: center;
 	border-radius: 10px;
-	box-shadow: -4px -4px 1px 0px #c9b024 inset, 4px 2px 2px #fff inset;
+	box-shadow: -4px -4px 1px 0 #c9b024 inset, 4px 2px 2px #fff inset;
 	border: 2px solid;
 }
 
